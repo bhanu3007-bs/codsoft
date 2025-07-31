@@ -171,7 +171,7 @@ Console input/output
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/java-mini-projects.git
+https://github.com/bhanu3007-bs/codsoft/tree/main
 
 
 2. Navigate to the desired project folder.
